@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "baby-s-first-scrnaseq-analysis"
+version = "0.1.0"
+description = ""
+authors = ["nifets <stefanmanol@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+scanpy = "^1.10.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
