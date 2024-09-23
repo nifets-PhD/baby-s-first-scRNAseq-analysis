@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 scanpy = "^1.10.3"
+scvi-tools = "^1.1.6.post2"
+leidenalg = "^0.10.2"
+scipy = "^1.14.1"
 
 
 [build-system]
